@@ -149,7 +149,6 @@ The most common way to produce boolean values is through comparison operators.  
   <tr>
    <td><code>4 != 5</code>
    </td>
-   <td>
      <td><code>true</code>
    </td>
   </tr>
